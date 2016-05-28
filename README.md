@@ -1,2 +1,2 @@
 # Slither
-Slither.io server based apon ogar unlimited
+Slither.io server based upon ogar unlimited
